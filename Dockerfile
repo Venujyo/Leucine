@@ -1,4 +1,4 @@
-ROM tomcat:9
+FROM tomcat:9
 MAINTAINER venu.jyo2000@gmail.com
 LABEL Department=DevOps
 EXPOSE 8080
